@@ -1,5 +1,5 @@
 # RPiRobot
- 
+Developed in collaboration with @Priyanshu4. 
 A robot built using the raspberry pi microcontroller as a fun hobby project. 
 
 The hardware of the robot consists of a raspberry pi with a camera module, 4 DC motors with wheels, 2 motor controller boards, a breadboard, and 9 volt batteries wired in parallel. 
